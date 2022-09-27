@@ -1,0 +1,23 @@
+
+
+.header-container{
+    background-color: rgb(59, 2, 2);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.header a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-size: 18px;
+
+}
+.header a:hover{
+    color: tomato;
+}

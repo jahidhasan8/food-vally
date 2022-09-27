@@ -1,0 +1,28 @@
+
+
+.home-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin-top: 10px;
+}
+
+.search-field{
+   width: 25%;
+   padding: 10px;
+   margin-left: 500px;
+}
+
+.meal-cart-container{
+    margin-right: 20px;
+
+}
+.cart{
+    border: 1px solid gray;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 10px;
+    position: sticky;
+    top: 0;
+    background-color: blanchedalmond;
+}
